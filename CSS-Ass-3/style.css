@@ -1,0 +1,47 @@
+able{
+    border: 80px;
+    margin: 20px;
+    align-self: center;
+}
+td{
+    width: 100px;
+    height: 85PX;
+    border: 2px ;
+}
+.box1{
+    background-color: hsl(200, 40%, 50%);
+}
+.box2{
+    background-color: rgb(101, 204, 169);
+}
+.box3{
+    background-color: #FFC0CB;
+}
+.box4{
+    background-color: #9B59B6;
+}
+.box5{
+    background-color: rgb(20,18 ,164);
+}
+.box6 {
+    background-color: hsl(120, 15%, 70%);
+}
+.box7 {
+    background-color: #b93090;
+
+}
+.box8{
+    background-color: rgb(230, 222, 18);
+}
+.box9{
+    background-color: hsl(10, 17%, 90%);
+}
+.box10{
+    background-color: #3EFF29;
+}
+.box11{
+    background-color: rgb(154, 177, 88);
+}
+.box12{
+    background-color: hsl(30, 105%, 20%);
+}
