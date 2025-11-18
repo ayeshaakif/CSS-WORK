@@ -1,0 +1,17 @@
+h1{
+    color:blue
+   }
+   .bedroom{
+    background-color: rgb(148, 165, 211);
+    border: 40px;
+    border-radius: 20px;
+   }
+   #kitchen{
+    color: rgb(253, 126, 79);
+   }
+ .house>div{
+    background-color: lightgray;
+ }
+ .livingroom+div{
+background: rgb(184, 239, 184);
+ }
