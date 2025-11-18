@@ -1,0 +1,20 @@
+.day {
+    background-color: rgb(222, 244, 101);
+    color: black;
+    padding: 40px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.day h2 {
+    font-size: medium;
+}
+
+.day p {
+    font-size: medium;
+    margin-bottom: auto;
+}
+.day p {
+    
+}
